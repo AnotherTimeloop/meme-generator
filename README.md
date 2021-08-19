@@ -1,1 +1,1 @@
-# meme-generator prog
+meme-generator
